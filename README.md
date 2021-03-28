@@ -174,6 +174,6 @@ En este laboratorio se utilizará un 'framework' de persistencia. La base de dat
 	Verifique el funcionamiento haciendo una consulta a través del 'mapper' desde MyBatisExample.
 	
 	
-	## Link del repositorio Funcionando
+	## Link del repositorio donde todo funciona Funcionando
 	https://github.com/sebastianmina/CVDS_Lab08
 	
